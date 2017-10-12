@@ -15,8 +15,11 @@ Publications about the Lift language.
 - Toomas Remmelg, Thibaut Lutz, Michel Steuwer, and Christophe Dubach:
   [**Performance Portable GPU Code Generation for Matrix Multiplication**](http://www.lift-project.org/publications/2016/remmelg16perfport.pdf), in *the [9th Workshop on General Purpose Processing using GPUs](http://conf.researchr.org/track/PPoPP-2016/GPGPU-2016-papers) (GPGPU) @ PPoPP*.
 
-- Adam Harries, *Michel Steuwer*, Murray Cole, Alan Gray, and Christophe Dubach:
+- Adam Harries, Michel Steuwer, Murray Cole, Alan Gray, and Christophe Dubach:
   [**Compositional Compilation for Sparse, Irregular Data Parallelism**](http://www.lift-project.org/publications/2016/harries16sparse.pdf), in *the [Workshop on High-Level Programming for Heterogeneous and Hierarchical Parallel Systems](https://sites.google.com/site/hlpgpu2016/) (HLPGPU) @ HiPEAC*.
+
+- Bastian Hagedorn:
+ [**An Extension of a Functional Intermediate Language for Parallelizing Stencil Computations and its Optimizing GPU Implementation using OpenCL**](http://www.lift-project.org/publications/2016/hagedorn16masterthesis.pdf); Master Thesis; University of Münster, Germany; Supervised by  [Sergei Gorlatch](http://www.uni-muenster.de/PVS/mitarbeiter/gorlatch.html) and Michel Steuwer.
 
 ## 2015
 
