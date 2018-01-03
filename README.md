@@ -2,6 +2,11 @@
 
 Publications about the Lift language.
 
+## 2018
+
+- Bastian Hagedorn, Larisa Stoltzfus, Michel Steuwer, Sergei Gorlatch, Christophe Dubach:
+  [**High Performance Stencil Code Generation with Lift**](http://www.lift-project.org/publications/2018/hagedorn18Stencils.pdf), in the *Proceedings of the [2018 International Symposium on Code Generation and Optimization](http://www.cgo.org) (CGO)*.
+
 ## 2017
 
 - Michel Steuwer, Toomas Remmelg, and Christophe Dubach:
