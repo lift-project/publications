@@ -4,6 +4,9 @@ Publications about the Lift language.
 
 ## 2018
 
+- Martin Lücke:
+ [**Efficient Implementation and Optimization of Geometric Multigrid Operations in the Lift Framework**](http://www.lift-project.org/publications/2018/luecke18masterthesis.pdf); Master Thesis; University of Münster, Germany; Supervised by  [Sergei Gorlatch](http://www.uni-muenster.de/PVS/mitarbeiter/gorlatch.html) and Herbert Kuchen.
+
 - Bastian Hagedorn, Larisa Stoltzfus, Michel Steuwer, Sergei Gorlatch, Christophe Dubach:
   [**High Performance Stencil Code Generation with Lift**](http://www.lift-project.org/publications/2018/hagedorn18Stencils.pdf), in the *Proceedings of the [2018 International Symposium on Code Generation and Optimization](http://www.cgo.org) (CGO)*.
 
