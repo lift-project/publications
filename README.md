@@ -4,6 +4,9 @@ Publications about the Lift language.
 
 ## 2018
 
+- Bastian Köpcke:
+  [**Implementing and Optimizing Fast Fourier Transforms in Lift**](http://www.lift-project.org/publications/2018/koepcke18masterthesis.pdf); Master Thesis; University of Münster, Germany; Supervised by  [Sergei Gorlatch](http://www.uni-muenster.de/PVS/mitarbeiter/gorlatch.html) and Herbert Kuchen.
+
 - Martin Lücke:
  [**Efficient Implementation and Optimization of Geometric Multigrid Operations in the Lift Framework**](http://www.lift-project.org/publications/2018/luecke18masterthesis.pdf); Master Thesis; University of Münster, Germany; Supervised by  [Sergei Gorlatch](http://www.uni-muenster.de/PVS/mitarbeiter/gorlatch.html) and Herbert Kuchen.
 
