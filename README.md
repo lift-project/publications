@@ -2,6 +2,11 @@
 
 Publications about the Lift language.
 
+## 2019
+
+- Naums Mogers, Aaron Smith, Dimitrios Vytiniotis, Michel Steuwer, Christophe Dubach, Ryota Tomioka:
+  [**Towards Mapping Lift to Deep Neural Network Accelerators**](https://www.lift-project.org/publications/2019/mogers2019dnnaccelerators.pdf), in *the [Workshop on Emerging Deep Learning Accelerators](https://www.hipeac.net/2019/valencia/#/schedule/sessions/7627/) (EDLA) @ HiPEAC*.
+
 ## 2018
 
 - Bastian Köpcke:
