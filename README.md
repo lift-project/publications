@@ -4,6 +4,9 @@ Publications about the Lift language.
 
 ## 2019
 
+- Martin Kristien, Bruno Bodin, Michel Steuwer, Christophe Dubach: 
+  [**High-Level Synthesis of Functional Patterns with Lift**](https://www.lift-project.org/publications/2019/kristien2019hlsfunctionalpatterns.pdf) at *[the 6th ACM SIGPLAN International Workshop on Libraries, Languages, and Compilers for Array Programming](https://pldi19.sigplan.org/home/ARRAY-2019#program)*.
+
 - Naums Mogers, Aaron Smith, Dimitrios Vytiniotis, Michel Steuwer, Christophe Dubach, Ryota Tomioka:
   [**Towards Mapping Lift to Deep Neural Network Accelerators**](https://www.lift-project.org/publications/2019/mogers2019dnnaccelerators.pdf), at *[the Workshop on Emerging Deep Learning Accelerators (EDLA) @ HiPEAC](https://www.hipeac.net/2019/valencia/#/schedule/sessions/7627/)*.
 
