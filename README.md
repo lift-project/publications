@@ -4,6 +4,9 @@ Publications about the Lift language.
 
 ## 2019
 
+- Federico Pizzuti, Michel Steuwer, Christophe Dubach:
+  [**Position-Dependent Arrays and Their Application for High Performance Code Generation**](https://www.lift-project.org/publications/2019/pizzuti19positiondependentarrays.pdf) at *[Functional High-Performance and Numerical Computing (FHPNC) 2019](https://icfp19.sigplan.org/home/FHPNC-2019)*.
+
 - Martin Kristien, Bruno Bodin, Michel Steuwer, Christophe Dubach: 
   [**High-Level Synthesis of Functional Patterns with Lift**](https://www.lift-project.org/publications/2019/kristien2019hlsfunctionalpatterns.pdf) at *[the 6th ACM SIGPLAN International Workshop on Libraries, Languages, and Compilers for Array Programming](https://pldi19.sigplan.org/home/ARRAY-2019#program)*.
 
