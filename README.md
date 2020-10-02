@@ -2,6 +2,10 @@
 
 Publications about the Lift language.
 
+## 2020
+- Naums Mogers, Valentin Radu, Lu Li, Jack Turner, Michael O'Boyle, and Christophe Dubach:
+  [**Automatic Generation of Specialized Direct Convolutions for Mobile GPUs**](https://www.lift-project.org/publications/2020/mogers2020directconvonmobile.pdf) at *[General Purpose Processing Using GPU (GPGPU ’20)](https://insight-archlab.github.io/gpgpu.html)*.
+
 ## 2019
 
 - Federico Pizzuti, Michel Steuwer, Christophe Dubach:
